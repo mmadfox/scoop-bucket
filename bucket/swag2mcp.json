@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0-alpha.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mmadfox/swag2mcp/releases/download/v0.1.0-alpha.0/swag2mcp_0.1.0-alpha.0_windows_amd64.zip",
+            "bin": [
+                "swag2mcp.exe"
+            ],
+            "hash": "5f1a73bedc10ebc10037705015a6f13d57497e0e5fc9365d66fa7890b28eccf7"
+        }
+    },
+    "homepage": "https://github.com/mmadfox/swag2mcp",
+    "license": "MIT",
+    "description": "Bridge OpenAPI/Swagger/Postman specs with LLM agents via MCP"
+}
