@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0-alpha.1",
+    "version": "0.1.0-alpha.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mmadfox/swag2mcp/releases/download/v0.1.0-alpha.1/swag2mcp-mock_0.1.0-alpha.1_windows_amd64.zip",
+            "url": "https://github.com/mmadfox/swag2mcp/releases/download/v0.1.0-alpha.2/swag2mcp-mock_0.1.0-alpha.2_windows_amd64.zip",
             "bin": [
                 "swag2mcp-mock.exe"
             ],
-            "hash": "b4c24503fa9deea9d7cbbcd08942575352dffbfba469b089162e5f9a5cfc97bc"
+            "hash": "c8e5cdf1596b195754e46b1fff7c3f63a0f5e61f6d03401532677d247da20447"
         }
     },
     "homepage": "https://github.com/mmadfox/swag2mcp",
