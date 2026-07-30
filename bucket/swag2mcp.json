@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0-alpha.3",
+    "version": "0.1.0-alpha.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mmadfox/swag2mcp/releases/download/v0.1.0-alpha.3/swag2mcp_0.1.0-alpha.3_windows_amd64.zip",
+            "url": "https://github.com/mmadfox/swag2mcp/releases/download/v0.1.0-alpha.4/swag2mcp_0.1.0-alpha.4_windows_amd64.zip",
             "bin": [
                 "swag2mcp.exe"
             ],
-            "hash": "4cd39e88a98d68ac2fcabc733d01705ba475cf751821290d7c7c0ee90e759c64"
+            "hash": "343d74ce57a0204436d62ea318a0a3bf6145ef883d712203b5be49a7b7953973"
         }
     },
     "homepage": "https://github.com/mmadfox/swag2mcp",
